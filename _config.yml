@@ -1,0 +1,44 @@
+﻿encoding: utf-8
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: redcarpet
+
+# 作者信息
+author: 
+  name: 秦伟平
+  email: qwpwork@163.com
+  github: https://github.com/qinweiping
+
+# 站点信息
+title: 秦伟平的博客 
+description: 记录一下自己整理的心得
+
+
+# gavatar头像及Favicon
+gavatar: http://img1.touxiang.cn/uploads/20121102/02-071612_272.jpg
+favicon: http://img1.touxiang.cn/uploads/20121102/02-071612_272.jpg
+
+# google analytics 设置
+ga:
+  id: UA-54767140-1
+
+
+# disqus 设置
+disqus:
+  shortname: suyan-zh
+
+# 主题设置，自动激活某个标签
+active: 技术
+
+# 首页除了最新文章外显示分类
+cates: 
+  - Android
+  - Java
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档
+  content: 目录
