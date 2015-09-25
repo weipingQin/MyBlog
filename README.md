@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://github.com/weipingQin/github.io]
+地址：[http://weipingqin.github.io/MyBlog/]
 
 ### 安装说明
 
