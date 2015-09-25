@@ -100,3 +100,10 @@ description: PHP操作Session的原理及提升安全性时的一个问题
     ?>
     
 这样一来就可以每次交互更新session_id了……虽然有些复杂，但是经测试可行。
+
+``` java
+public static void main(String[] args){
+    System.out.println("HelloWord!");
+}
+
+```
